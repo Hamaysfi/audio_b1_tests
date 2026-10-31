@@ -1,0 +1,40 @@
+id,page,part,plays,dur,title,voices,url
+D-H1,10,front,2,3:42,Diagnose Hören: drei kurze Texte,de-AT-IngridNeural de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/D-H1.mp3
+H1-V,44,hoeren,2,1:34,Nachricht einer Fahrradwerkstatt,de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_b1_tests/H1-V.mp3
+H1-T1,45,hoeren,2,2:18,Durchsage im Zug · Wetterbericht,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/H1-T1.mp3
+H1-T2,46,hoeren,2,3:38,Sprachschule · Kaufhaus · Verkehrsmeldung,de-DE-ConradNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b1_tests/H1-T2.mp3
+H1-T3,47,hoeren,2,6:04,Fünf kurze Texte (Prüfungsniveau),de-AT-IngridNeural de-CH-LeniNeural de-DE-AmalaNeural de-DE-ConradNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/H1-T3.mp3
+H2-V,50,hoeren,1,1:14,Führung durch eine Schokoladenmanufaktur,de-AT-IngridNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/H2-V.mp3
+H2-T1,51,hoeren,1,1:20,Begrüßung beim Ferien-Sprachkurs,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/H2-T1.mp3
+H2-T2,52,hoeren,1,1:44,Begrüßung beim Erste-Hilfe-Kurs,de-DE-ConradNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/H2-T2.mp3
+H2-T3,53,hoeren,1,3:10,Tag der offenen Tür an der Berufsschule,de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b1_tests/H2-T3.mp3
+H3-V,56,hoeren,1,1:17,Gespräch: Fahrradtour am Sonntag,de-DE-AmalaNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_b1_tests/H3-V.mp3
+H3-T1,57,hoeren,1,1:35,Gespräch: Wohnungsbesichtigung,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b1_tests/H3-T1.mp3
+H3-T2,58,hoeren,1,2:18,Gespräch im Büro: eine Abschiedsfeier,de-CH-JanNeural de-DE-AmalaNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/H3-T2.mp3
+H3-T3,59,hoeren,1,3:15,Gespräch in der Straßenbahn: ein Praktikum,de-AT-IngridNeural de-AT-JonasNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/H3-T3.mp3
+H4-V,62,hoeren,2,2:06,Radiodiskussion: Supermärkte am Sonntag?,de-DE-ConradNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b1_tests/H4-V.mp3
+H4-T1,63,hoeren,2,3:00,Radiodiskussion: Haustiere in Mietwohnungen?,de-CH-LeniNeural de-DE-AmalaNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_b1_tests/H4-T1.mp3
+H4-T2,64,hoeren,2,4:10,Radiodiskussion: Radwege statt Parkplätze?,de-AT-JonasNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b1_tests/H4-T2.mp3
+H4-T3,65,hoeren,2,6:58,Radiodiskussion: Kochen als Schulfach?,de-AT-JonasNeural de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/H4-T3.mp3
+TH1,67,hoeren,1,2:55,telc HV 1: fünf Radiomeldungen,de-DE-ConradNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/TH1.mp3
+TH3,67,hoeren,2,4:31,telc HV 3: fünf Ansagen und Nachrichten,de-CH-JanNeural de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b1_tests/TH3.mp3
+TH2,68,hoeren,2,6:16,telc HV 2: Interview mit einer Café-Gründerin,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b1_tests/TH2.mp3
+MT-H1,70,hoeren,2,2:07,Mini-Test Teil 1: zwei kurze Texte,de-CH-LeniNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_b1_tests/MT-H1.mp3
+MT-H2,70,hoeren,1,1:19,Mini-Test Teil 2: Probetraining im Fitnessstudio,de-DE-AmalaNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/MT-H2.mp3
+MT-H3,71,hoeren,1,1:26,Mini-Test Teil 3: Sommerferien in Tunesien,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b1_tests/MT-H3.mp3
+MT-H4,71,hoeren,2,2:52,Mini-Test Teil 4: kleinere Portionen im Restaurant?,de-AT-IngridNeural de-CH-LeniNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_b1_tests/MT-H4.mp3
+S1-01,106,sprechen,1,1:33,Modelldialog: Ausflug mit dem Deutschkurs,de-DE-AmalaNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/S1-01.mp3
+S1-02,107,sprechen,1,1:39,Modelldialog: Besuch im Krankenhaus,de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b1_tests/S1-02.mp3
+S2-01,114,sprechen,1,1:47,Modellpräsentation: Online lernen oder im Kursraum?,de-DE-AmalaNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/S2-01.mp3
+S2-02,115,sprechen,1,1:18,Modellpräsentation: Sport im Alltag,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/S2-02.mp3
+S2-03,116,sprechen,1,1:28,Modellpräsentation: Stadt oder Land?,de-AT-IngridNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/S2-03.mp3
+S3-01,120,sprechen,1,1:05,"Modellaustausch: Rückmeldung, Frage, Prüferfrage",de-CH-LeniNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b1_tests/S3-01.mp3
+S3-02,121,sprechen,1,1:00,Modellaustausch: Stadt oder Land?,de-AT-IngridNeural de-DE-ConradNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_b1_tests/S3-02.mp3
+M1-H1,140,modelltest1,2,6:26,Modelltest 1 · Hören Teil 1,de-AT-JonasNeural de-CH-LeniNeural de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b1_tests/M1-H1.mp3
+M1-H2,141,modelltest1,1,2:53,Modelltest 1 · Hören Teil 2,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/M1-H2.mp3
+M1-H3,142,modelltest1,1,3:08,Modelltest 1 · Hören Teil 3,de-DE-AmalaNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_b1_tests/M1-H3.mp3
+M1-H4,143,modelltest1,2,6:18,Modelltest 1 · Hören Teil 4,de-DE-ConradNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b1_tests/M1-H4.mp3
+M2-H1,160,modelltest2,2,6:17,Modelltest 2 · Hören Teil 1,de-AT-IngridNeural de-CH-JanNeural de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b1_tests/M2-H1.mp3
+M2-H2,161,modelltest2,1,2:55,Modelltest 2 · Hören Teil 2,de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b1_tests/M2-H2.mp3
+M2-H3,162,modelltest2,1,2:45,Modelltest 2 · Hören Teil 3,de-DE-AmalaNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/M2-H3.mp3
+M2-H4,163,modelltest2,2,5:30,Modelltest 2 · Hören Teil 4,de-CH-LeniNeural de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b1_tests/M2-H4.mp3
